@@ -10,7 +10,11 @@ export const team = [
     }
   },
   { name: 'Antônio Marques Souza Seixas', role: '', photo: '', links: {} },
-  { name: 'João Henrique Vieira', role: '', photo: '', links: {} },
+  {
+    name: 'João Henrique Vieira', role: '', photo: '',
+    email: 'joaohvc1@gmail.com',
+    links: { github: 'https://github.com/Tatmiki' }
+  },
   {
     name: 'Leonardo Seiji Nakayama Prado', role: '', photo: '',
     email: 'leonardonakayama99@gmail.com',
